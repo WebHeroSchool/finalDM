@@ -170,8 +170,6 @@ body {
 }
 
 .main__link:hover {
-  background: #e0036f;
-  color: #fff;
   opacity: .5;
   animation-name: move;
   animation-duration: 2s;
