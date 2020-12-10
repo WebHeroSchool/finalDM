@@ -22,7 +22,7 @@ body {
 }
 
 .header {
-  background: center no-repeat url(img/background.svg);
+  background: center no-repeat url(img/background.png);
 }
 
 .header__wrapper {
